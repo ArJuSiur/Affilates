@@ -76,8 +76,8 @@ body {
     
 }
 @keyframes cat{
-    from{transform: translate(-200px)}
-    to{transform: translate(2000px)}
+    from{transform: translate(-100px)}
+    to{transform: translate(1930px)}
 }
 
 /*TABELA*/
