@@ -73,11 +73,12 @@ body {
     animation-fill-mode:both;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+    overflow: hidden;
     
 }
 @keyframes cat{
-    from{transform: translate(-100px)}
-    to{transform: translate(1930px)}
+    from{transform: translate(0px)}
+    to{transform: translate(right:0;)
 }
 
 /*TABELA*/
